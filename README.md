@@ -20,27 +20,28 @@
       <tr>
         <td>
           <img
-            src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
-            alt="typescript"
-          />
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-            alt="javascript"
-          />
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
         </td>
         <td>
-          <img
-            src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"
-            alt="csharp"
-          />
+         <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
         </td>
-        <td>
-          <img
-            src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"
-            alt="python"
-          />
       </tr>
     </table>
   </section>
