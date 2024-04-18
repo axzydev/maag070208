@@ -3,8 +3,11 @@
 
 
 <section style="display: flex; justify-content: start;">
+<div>
 
 ![animations](/animations/developer.gif)
+
+</div>
 
 
   <div style="width: 500px;">
