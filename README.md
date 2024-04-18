@@ -9,7 +9,7 @@
 
   <div style="width: 500px;">
     <h2>Sobre mi</h2>
-    <pre>Desarrollador Fullstack con 4+ años de experiencia desarrollando aplicaciones web usando Typescript, Angular 8+, Javascript, ReactJS. Apasionado de los lenguajes de programación modernos y las nuevastécnicas de desarrollo. Autodidacta y me encantan los nuevos retos.</pre>
+    <p>Desarrollador Fullstack con 4+ años de experiencia desarrollando aplicaciones web usando Typescript, Angular 8+, Javascript, ReactJS. Apasionado de los lenguajes de programación modernos y las nuevastécnicas de desarrollo. Autodidacta y me encantan los nuevos retos.</p>
   </div>
 </section>
 
