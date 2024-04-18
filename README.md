@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asael Amaro</h1>
+![image](https://github.com/maag070208/maag070208/assets/48636949/4565db56-5fc1-4324-835f-59eccb62b8c1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
