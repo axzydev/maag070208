@@ -135,8 +135,6 @@ retos.
             alt="sass"
           />
         </td>
-      </tr>
-      <tr>
         <td>
           <img
             src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor"
@@ -153,7 +151,7 @@ retos.
             alt="electron"
           />
         </td>
-        <td style="background: white;">
+        <td>
           <img
             src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor"
             width="40"
