@@ -217,8 +217,6 @@ retos.
             height="40"
           />
         </td>
-      </tr>
-      <tr>
         <td>
           <img
             src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"
@@ -259,8 +257,6 @@ retos.
             height="40"
           />
         </td>
-      </tr>
-      <tr>
         <td>
           <img
             src="https://devicons.railway.app/i/npm.svg"
@@ -297,6 +293,14 @@ retos.
           <img
             src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=webp&w=512"
             alt="flutter"
+            width="40"
+            height="40"
+          />
+        </td>
+          <td>
+          <img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-jest-3521517-2945020.png?f=webp&w=512"
+            alt="jest"
             width="40"
             height="40"
           />
