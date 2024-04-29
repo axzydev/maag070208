@@ -175,8 +175,6 @@ retos.
             alt="github"
           />
         </td>
-      </tr>
-      <tr>
         <td>
            <img
             src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor"
@@ -201,6 +199,8 @@ retos.
             alt="mongodb"
           />
         </td>
+      </tr>
+      <tr>
         <td>
           <img
             src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor"
@@ -217,6 +217,8 @@ retos.
             height="40"
           />
         </td>
+      </tr>
+      <tr>
         <td>
           <img
             src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"
@@ -233,8 +235,6 @@ retos.
             height="40"
           />
         </td>
-       </tr>
-      <tr>
         <td>
           <img
             src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"
