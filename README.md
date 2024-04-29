@@ -1,46 +1,51 @@
 <html>
-<h1 align="center">Hola 👋, soy Asael Amaro</h1>
+  <h1 align="center">Hola 👋, soy Asael Amaro</h1>
 
-
-<section style="display: flex; justify-content: center;">
-<div>
+  <section style="display: flex; justify-content: center">
+    <div>
 
 ![animations](/animations/developer.gif)
-
 </div>
-  <div>
-    <h2>Sobre mi</h2>
-    <p>Desarrollador Fullstack con 4+ años de experiencia desarrollando aplicaciones web usando Typescript, Angular 8+, Javascript, ReactJS. Apasionado de los lenguajes de programación modernos y las nuevastécnicas de desarrollo. Autodidacta y me encantan los nuevos retos.</p>
-  </div>
-</section>
+<div>
+<h2>Sobre mi</h2>
+<p>
+Desarrollador Fullstack con 4+ años de experiencia desarrollando
+aplicaciones web usando Typescript, Angular 8+, Javascript, ReactJS.
+Apasionado de los lenguajes de programación modernos y las
+nuevastécnicas de desarrollo. Autodidacta y me encantan los nuevos
+retos.
+</p>
+</div>
 
- <section>
+  </section>
+
+  <section>
     <h2>Lenguajes</h2>
-    <table style="width: auto;">
+    <table style="width: auto">
       <tr>
         <td>
           <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+          />
         </td>
         <td>
           <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+          />
         </td>
         <td>
-         <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp"
+            width="40"
+            height="40"
+          />
         </td>
       </tr>
     </table>
@@ -48,29 +53,37 @@
 
   <section>
     <h2>Frameworks</h2>
-    <table style="width: auto;">
+    <table style="width: auto">
       <tr>
         <td>
           <img
-            src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"
+            src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="angular"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"
+            src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="react"
           />
         </td>
         <td>
-            <img
-                src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white"
-                alt="reactnative"
-            />
+          <img
+            src="https://icongr.am/devicon/ionic-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
+            alt="ionic"
+          />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"
+            src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="aspnet"
           />
         </td>
@@ -78,166 +91,219 @@
     </table>
   </section>
 
-<section>
+  <section>
     <h2>Tech Stack</h2>
     <table>
       <tr>
         <td>
           <img
-            src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"
-            alt="android"
+            src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor"
+            alt="docker"
+            width="40"
+            height="40"
           />
         </td>
         <td>
-          <img
-            src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"
+           <img
+            src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="angular"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"
+            src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="csharp"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"
+            src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="css3"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
-            alt="docker"
+            src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
+            alt="sass"
           />
         </td>
       </tr>
-        <tr>    
+      <tr>
         <td>
           <img
-            src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white"
-            alt="dotnet"
+            src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
+            alt="aspnet"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white"
+            src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="electron"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"
+            src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="express"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
+            src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="git"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
-            alt="html5"
+            src="https://devicons.railway.app/i/github-light.svg"
+            width="40"
+            height="40"
+            alt="github"
           />
         </td>
-        </tr>
-        <tr>
+      </tr>
+      <tr>
         <td>
-          <img
-            src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-            alt="javascript"
-          />
-        </td>
-        <td>
-          <img
-            src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"
-            alt="jest"
-          />
-        </td>
-        <td>
-          <img
-            src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"
-            alt="kotlin"
+           <img
+            src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
+            alt="gitlab"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
-            alt="linux"
+            src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
+            alt="html"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"
+            src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="mongodb"
           />
         </td>
-        </tr>
-        <tr>
         <td>
           <img
-            src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
+            src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor"
+            width="40"
+            height="40"
             alt="mysql"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"
-            alt="sql server"
-          />
-        </td>
-        <td>
-          <img
-            src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"
+            src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"
             alt="nodejs"
+            width="40"
+            height="40"
           />
         </td>
+      </tr>
+      <tr>
         <td>
           <img
-            src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"
+            src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"
             alt="react"
+            width="40"
+            height="40"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white"
-            alt="reactnative"
-          />
-        </td>
-        </tr>
-        <tr>
-        <td>
-          <img
-            src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
-            alt="redux"
+            src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"
+            alt="android"
+            width="40"
+            height="40"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
-            alt="sass"
+            src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"
+            alt="python"
+            width="40"
+            height="40"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+            src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"
             alt="typescript"
+            width="40"
+            height="40"
           />
         </td>
         <td>
           <img
-            src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white"
-            alt="xamarin"
+            src="https://devicons.railway.app/i/kotlin.svg"
+            alt="kotlin"
+            width="40"
+            height="40"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img
+            src="https://devicons.railway.app/i/npm.svg"
+            alt="npm"
+            width="40"
+            height="40"
+          />
+        </td>
+        <td>
+          <img
+            src="https://devicons.railway.app/i/redux.svg"
+            alt="redux"
+            width="40"
+            height="40"
+          />
+        </td>
+        <td>
+          <img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-yarn-34-1174974.png?f=webp&w=512"
+            alt="yarn"
+            width="40"
+            height="40"
+          />
+        </td>
+        <td>
+          <img
+            src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor"
+            alt="vs"
+            width="40"
+            height="40"
+          />
+        </td>
+         <td>
+          <img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=webp&w=512"
+            alt="flutter"
+            width="40"
+            height="40"
           />
         </td>
       </tr>
     </table>
   </section>
-    </table>
-</section>
-
 </html>
