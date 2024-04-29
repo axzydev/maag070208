@@ -153,7 +153,7 @@ retos.
             alt="electron"
           />
         </td>
-        <td>
+        <td style="background: white;">
           <img
             src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor"
             width="40"
